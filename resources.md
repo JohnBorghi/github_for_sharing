@@ -1,11 +1,3 @@
-**Resources for learning Github basics**
-
-
-
-**Resources for learning Git and Github using the Command Line**
-
-Software Carpentry - Version Control with Git
-
 **Some light reading**
 
 Blischak et al., (2016) [A quick introduction to version control with
