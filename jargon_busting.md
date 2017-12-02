@@ -2,9 +2,9 @@
 
 **Repisitory:** A folder that contains all tracked files as well as the version control history.
 
-**Commit:** A revision or change to a file in a repository.
+**Collaborator** A person who can make changes to the files in a repository. *Has to be invited to contribute by the repository owner.*
 
-**Clone:** A version of a repository that resides locally, on your computer.
+**Commit:** A revision or change to a file in a repository.
 
 **Merge:** Updating files by incorporating the changes introduced in new commits.
 
@@ -15,4 +15,3 @@
 **Fork:** A copy of another user's repository.
 
 **Pull Request:** A message sent by a Github user requesting to merge the commits in their remote repository into another user's repository.
-
